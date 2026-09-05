@@ -1,4 +1,4 @@
-## Hi there 👋
+Computer Engineering graduate with a strong passion for Artificial Intelligence and Machine Learning. While interested in all areas of software development, my primary focus lies in building and applying AI/ML solutions. During my academic years, I established a solid technical foundation by successfully balancing my degree with hands-on professional experience in the tech industry. I am looking to join a dynamic technical team where I can contribute my skills and continue to grow professionally.
 
 <!--
 **IgnacioSerena/IgnacioSerena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
