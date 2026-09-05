@@ -32,7 +32,6 @@ During my academic years, I established a solid technical foundation by successf
 
 ## 📫 Let's Connect
 
-* **Portfolio:** [ignacioserena.github.io](https://ignacioserena.github.io)
 * **LinkedIn:** [linkedin.com/in/ignacio-serena](https://www.linkedin.com/in/ignacio-serena)
 * **Email:** ignacio.sermon@gmail.com
 
